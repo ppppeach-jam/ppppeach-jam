@@ -1,5 +1,5 @@
 <h1 align="center">Hinako Mitsuoka 🍑</h1>
-<h3 align="center">Master's Student of Meijo University / Hotta Lab.</h3>
+<h3 align="center">Master's Student at Meijo University / Hotta Lab.</h3>
 
 <p align="center">
   <a href="https://github.com/ppppeach-jam">
@@ -45,16 +45,16 @@
 <h2>Profile</h2>
 <ul>
   <li>
-    <strong>Master's Student (Electrical and Electronic Engineering)</strong>: 2024/4 ~ Current
+    <strong>Master's Student (Electrical and Electronic Engineering)</strong>: 2024/4 - Present
     <ul>
       <li>Focus: Computer Vision, Pattern Recognition, Deep Learning</li>
     </ul>
   </li>
   <li>
-    Organizer of <a href="https://nagoyacv.connpass.com/">Nagoya CVPRML Seminar</a>: 2024/04 ~ Current
+    Organizer of <a href="https://nagoyacv.connpass.com/">Nagoya CVPRML Seminar</a>: 2024/04 - Present
   </li>
   <li>
-    Internship at <a href="https://jpn.nec.com/">NEC Biometrics Research Laboratories</a>: 2024/08 ~ 2024/09
+    Research Intern at <a href="https://jpn.nec.com/">NEC Biometrics Research Laboratories</a>: 2024/08 - 2024/09
   </li>
 </ul>
 
