@@ -1,5 +1,5 @@
 <h1 align="center">Hinako Mitsuoka 🍑</h1>
-<h3 align="center">Master's Student at Meijo University / Hotta Lab.</h3>
+<h3 align="center">Master's Student at Meijo University / Hotta Lab.⚾</h3>
 
 <p align="center">
   <a href="https://github.com/ppppeach-jam">
