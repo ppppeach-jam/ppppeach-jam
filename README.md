@@ -6,13 +6,27 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://ppppeach-jam.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=about.me&logoColor=pink" alt="Website">
-  </a>
-  <a href="https://wwwms.meijo-u.ac.jp/kazuhotta/">
-    <img src="https://img.shields.io/badge/Laboratory-0056D2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lab">
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-E91E63?style=for-the-badge&logo=googlechrome&logoColor=pink" alt="Website">
   <a href="https://user.competition.signate.jp/en/user/?user=fbeed0d8c4e34e7d85d41f43881d00c5">
     <img src="https://img.shields.io/badge/SIGNATE-Competition-000000?style=for-the-badge&logo=mediafire&logoColor=white" alt="SIGNATE">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wwwms.meijo-u.ac.jp/kazuhotta/">
+    <img src="https://img.shields.io/badge/Laboratory-b7193f?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lab">
+  </a>
+
+  <a href="https://scholar.google.co.jp/citations?user=SODa45gAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+
+  <a href="https://orcid.org/0009-0005-6969-4017">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+
+  <a href="https://researchmap.jp/hinako_mitsuoka">
+    <img src="https://img.shields.io/badge/Researchmap-6F42C1?style=for-the-badge&logoColor=white" alt="Researchmap">
   </a>
 </p>
 
