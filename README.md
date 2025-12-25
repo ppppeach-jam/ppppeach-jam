@@ -1,5 +1,5 @@
 <h1 align="center">Hinako Mitsuoka 🍑</h1>
-<h3 align="center">Studying Computer Vision and Pattern Recognition</h3>
+<h3 align="center">Master's Student of Meijo University / Hotta Lab.</h3>
 
 <p align="center">
   <a href="https://github.com/ppppeach-jam">
@@ -11,7 +11,7 @@
   <a href="https://wwwms.meijo-u.ac.jp/kazuhotta/">
     <img src="https://img.shields.io/badge/Laboratory-0056D2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lab">
   </a>
-  <a href="https://user.competition.signate.jp/ja/account/?tab=public">
+  <a href="https://user.competition.signate.jp/en/user/?user=fbeed0d8c4e34e7d85d41f43881d00c5">
     <img src="https://img.shields.io/badge/SIGNATE-Competition-000000?style=for-the-badge&logo=mediafire&logoColor=white" alt="SIGNATE">
   </a>
 </p>
