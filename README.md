@@ -20,35 +20,27 @@
 
 <p><strong>Languages & Libraries</strong></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,sklearn,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,py,pytorch,opencv,sklearn,matlab,swift" />
 </a>
 
 <p><strong>Tools & Environments</strong></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,latex,md,ae,ai" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,vscode,latex,md,ae,ai" />
 </a>
 
-<h2>Education / Research / Competitions</h2>
+<h2>Profile</h2>
 <ul>
   <li>
-    <strong>Master's Student (Computer Vision)</strong>: 2024/4 ~ Present
+    <strong>Master's Student (Electrical and Electronic Engineering)</strong>: 2024/4 ~ Current
     <ul>
-      <li>Focus: Pattern Recognition, Deep Learning</li>
-      <li>Research on [あなたの具体的な研究テーマ]</li>
+      <li>Focus: Computer Vision, Pattern Recognition, Deep Learning</li>
     </ul>
   </li>
   <li>
-    <a href="#">Conference / Paper Submission</a>: 202X/XX
-    <ul>
-      <li>Title: "Your Paper Title Here"</li>
-      <li>Role: First Author</li>
-    </ul>
+    Organizer of <a href="https://nagoyacv.connpass.com/">Nagoya CVPRML Seminar</a>: 2024/04 ~ Current
   </li>
   <li>
-    Internship at <a href="#">Company Name</a>: 202X/XX ~ 202X/XX
-    <ul>
-      <li>Developed Image Processing Algorithm using Python</li>
-    </ul>
+    Internship at <a href="https://jpn.nec.com/">NEC Biometrics Research Laboratories</a>: 2024/08 ~ 2024/09
   </li>
 </ul>
 
@@ -58,10 +50,6 @@
 </ul>
 
 <h2>Status</h2>
-
-<p>
-  <img src="./kaggle-plates/Competitions/black.svg" alt="Kaggle Competitions">
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppppeach-jam/ppppeach-jam/output/github-contribution-grid-snake-dark.svg">
