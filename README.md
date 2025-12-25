@@ -20,12 +20,12 @@
 
 <p><strong>Languages & Libraries</strong></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,opencv,tensorflow,sklearn,matlab" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,sklearn,matlab" />
 </a>
 
 <p><strong>Tools & Environments</strong></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vim,vscode,latex,md" />
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,latex,md,ae,ai" />
 </a>
 
 <h2>Education / Research / Competitions</h2>
