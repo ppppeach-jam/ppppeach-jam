@@ -5,13 +5,13 @@
   <a href="https://github.com/ppppeach-jam">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="[https://your-website.com](https://ppppeach-jam.github.io/)">
+  <a href="https://ppppeach-jam.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=about.me&logoColor=pink" alt="Website">
   </a>
-  <a href="[https://your-lab-website.com](https://wwwms.meijo-u.ac.jp/kazuhotta/)">
+  <a href="https://wwwms.meijo-u.ac.jp/kazuhotta/">
     <img src="https://img.shields.io/badge/Laboratory-0056D2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lab">
   </a>
-  <a href="https://signate.jp/users/ppppeach">
+  <a href="https://user.competition.signate.jp/ja/account/?tab=public">
     <img src="https://img.shields.io/badge/SIGNATE-Competition-000000?style=for-the-badge&logo=mediafire&logoColor=white" alt="SIGNATE">
   </a>
 </p>
