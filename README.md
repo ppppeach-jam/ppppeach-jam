@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Laboratory-b7193f?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lab">
   </a>
 
-  <a href="https://scholar.google.co.jp/citations?user=SODa45gAAAAJ">
+  <a href="https://scholar.google.co.jp/citations?user=S68EVOUAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
 
@@ -45,10 +45,13 @@
 <h2>Profile</h2>
 <ul>
   <li>
-    <strong>Master's Student (Electrical and Electronic Engineering)</strong>: 2024/4 - Present
+    <strong>PhD Student (Electrical and Electronic Engineering)</strong>: 2026/4 - Present
     <ul>
       <li>Focus: Computer Vision, Pattern Recognition, Deep Learning</li>
     </ul>
+  </li>
+  <li>
+    JSPS Research Fellow (DC1)</a>: 2026/04 - Present
   </li>
   <li>
     Organizer of <a href="https://nagoyacv.connpass.com/">Nagoya CVPRML Seminar</a>: 2024/04 - Present
